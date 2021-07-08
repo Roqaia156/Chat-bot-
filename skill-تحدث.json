@@ -1,0 +1,863 @@
+{
+  "intents": [
+    {
+      "intent": "اراك-لاحقا",
+      "examples": [
+        {
+          "text": "اراك لاحقا"
+        },
+        {
+          "text": "اشوفك بعدين"
+        },
+        {
+          "text": "نتقابل في وقت ثاني"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "الارقام",
+      "examples": [
+        {
+          "text": "الارقام"
+        },
+        {
+          "text": "ايش هيا الارقام"
+        },
+        {
+          "text": "ماهيا الارقام باللغة الكورية"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "بخير",
+      "examples": [
+        {
+          "text": "انا بخير"
+        },
+        {
+          "text": "انا بخير شكرا لك"
+        },
+        {
+          "text": "تمام"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "بطاقة_ائتمان",
+      "examples": [
+        {
+          "text": "في شبكة ؟"
+        },
+        {
+          "text": "هل تقبل بطاقات الائتمان؟"
+        },
+        {
+          "text": "هل تقبل بطاقة ؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ترجمة",
+      "examples": [
+        {
+          "text": "ترجمة"
+        },
+        {
+          "text": "ترجمه"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "تعلم-حروف",
+      "examples": [
+        {
+          "text": "افضل موقع لتعلم الحروف"
+        },
+        {
+          "text": "تعلم الحروف"
+        },
+        {
+          "text": "موقع لتعلم الحروف"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "حروف",
+      "examples": [
+        {
+          "text": "ايش هيا حروف اللغة الكورية"
+        },
+        {
+          "text": "حروف"
+        },
+        {
+          "text": "حروف اللغة الكورية"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "حزين",
+      "examples": [
+        {
+          "text": "ترجم انا حزين"
+        },
+        {
+          "text": "ترجملي انا حزين"
+        },
+        {
+          "text": "حزين"
+        },
+        {
+          "text": "حزينة"
+        },
+        {
+          "text": "زعلان"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سعيد",
+      "examples": [
+        {
+          "text": "انا سعيد"
+        },
+        {
+          "text": "انا سعيدة"
+        },
+        {
+          "text": "انا فرحانة"
+        },
+        {
+          "text": "انا مبسوط"
+        },
+        {
+          "text": "ترجم انا سعيد"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سعيد-بالتحدث",
+      "examples": [
+        {
+          "text": "سعيد بالتحدث معك"
+        },
+        {
+          "text": "سعيد بالكلام معاك"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "شكرا",
+      "examples": [
+        {
+          "text": "ثانكس"
+        },
+        {
+          "text": "شكرا"
+        },
+        {
+          "text": "شكرا لك"
+        },
+        {
+          "text": "مرة شكرا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "صباح",
+      "examples": [
+        {
+          "text": "صباح"
+        },
+        {
+          "text": "صباح الخير"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "فواكة",
+      "examples": [
+        {
+          "text": "الفواكه بالكوري"
+        },
+        {
+          "text": "انواع الفواكه"
+        },
+        {
+          "text": "ايش هيا الفواكه"
+        },
+        {
+          "text": "تفاحه"
+        },
+        {
+          "text": "فراولة"
+        },
+        {
+          "text": "فواكه"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كم-سيكلف",
+      "examples": [
+        {
+          "text": "بكم"
+        },
+        {
+          "text": "بكم ؟"
+        },
+        {
+          "text": "كم سيكلف هذا؟"
+        },
+        {
+          "text": "كم يكلف ؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كيف_حالك",
+      "examples": [
+        {
+          "text": "ايش اخبارك"
+        },
+        {
+          "text": "كيف حالك"
+        },
+        {
+          "text": "كيف حالك بالكوري؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "لغة_كورية",
+      "examples": [
+        {
+          "text": "ابغا اعرف عن الكورية"
+        },
+        {
+          "text": "الكورية"
+        },
+        {
+          "text": "اللغة الكورية"
+        },
+        {
+          "text": "كوريا"
+        },
+        {
+          "text": "معلومات عن اللغة الكورية"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مرحبا_بالكوري",
+      "examples": [
+        {
+          "text": "ايش هيا مرحبا بالكوري"
+        },
+        {
+          "text": "كيف اقول اهلا بالكوري"
+        },
+        {
+          "text": "مرحبا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مساء",
+      "examples": [
+        {
+          "text": "مساء"
+        },
+        {
+          "text": "مساء الخير"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "معلومات_عامة",
+      "examples": [
+        {
+          "text": "معلومات"
+        },
+        {
+          "text": "معلومات عامه"
+        },
+        {
+          "text": "معلومات عامه عن اللغه"
+        },
+        {
+          "text": "معلومات عنها"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "موقع_للتعلم",
+      "examples": [
+        {
+          "text": "ابغا اتعلم اللغة"
+        },
+        {
+          "text": "ابغا موفع للغة الكورية"
+        },
+        {
+          "text": "ابغا موقع اتعلم اللغة"
+        },
+        {
+          "text": "تعلم اللغة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "يمكنك-مساعدتي",
+      "examples": [
+        {
+          "text": "ممكن تساعدني"
+        },
+        {
+          "text": "ممكن تساعدني ؟"
+        },
+        {
+          "text": "هل يمكنك مساعدتي"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "انا سعيد ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "행복한"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#سعيد",
+      "dialog_node": "node_10_1625370417202",
+      "previous_sibling": "node_4_1625370935922"
+    },
+    {
+      "type": "standard",
+      "title": "معلومات عامة عن اللغة الكورية",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعدّ اللغة الكورية لغة منفصلة، أي أنها لا تتّبع أي لغات أخرى في العالم، فهي ذات قواعد وكلمات فريدة خاصة بها وحدها.\n"
+              },
+              {
+                "text": "ترجع اللغة الكورية في أصلها إلى اللغة الصينية على الرغم من أنها لغة منعزلة عن باقي اللغات إلّا أن 60 % من الحروف الموجودة فيها تعدّ حروفًا صينية الأصل؛ بسبب القرب الموجود بين الحضارتين الكورية والصينية، إذ انعكس على اللغة.\n"
+              },
+              {
+                "text": "تشكلت الأبجدية الخاصة باللغة الكورية لأول مرة في القرن الخامس عشر التي تسمى الهانغل، وعلى الرغم من أنها لغة عريقة ترجع إلى آلاف السنين إلّا أنها لم تستخدم أبجدية خاصة بها حتى القرن الخامس عشر، فقد كانت تستخدم الأبجدية الصينية قبل ذلك.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#معلومات_عامة",
+      "dialog_node": "node_10_1625705654431",
+      "previous_sibling": "node_5_1625705462841"
+    },
+    {
+      "type": "standard",
+      "title": "اللغة الكورية",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "한국어 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "تعدّ اللغة الكورية من اللغات التي يتحدث بها سكان المنطقة الكورية، وذلك ما يتضمن منطقة كوريا الشمالية، ومنطقة كوريا الجنوبية، كما   أن اللغة الكورية التي يتحدث بها الأشخاص في وقتنا الحالي يُعرف كل شيء عنها تقريبًا، أما بالنسبة للغة الكورية التي كانت سائدة في القرن الخامس عشر الميلادي فلا يُعرف عنها الكثير، إذ إن أصولها تبدو غير معروفة المصدر، ولكن من المعروف عنها بأن اللغة التي كانت سائدة في ذلك الوقت كانت تُكتب باستخدام الحروف الصينية، وذلك كان تحديدًا في عام 1103 م، وتسمى أحيانًا باللغة الكورية القديمة.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#لغة_كورية",
+      "dialog_node": "node_1_1625363346293",
+      "previous_sibling": "node_2_1625369527358"
+    },
+    {
+      "type": "standard",
+      "title": "انا حزين",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "나는 슬프다"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#حزين",
+      "dialog_node": "node_1_1625370453802",
+      "previous_sibling": "node_2_1625706250099"
+    },
+    {
+      "type": "standard",
+      "title": "هل تقبل بطاقات الائتمان؟",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "카드돼요?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#بطاقة_ائتمان",
+      "dialog_node": "node_1_1625371489900",
+      "previous_sibling": "node_4_1625371430953"
+    },
+    {
+      "type": "standard",
+      "title": "كيف حالك ؟",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "어떻게 지내세요?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#كيف_حالك",
+      "dialog_node": "node_2_1625369527358",
+      "previous_sibling": "node_5_1625369571981"
+    },
+    {
+      "type": "standard",
+      "title": "هل يمكنك مساعدتي ؟",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "도와주시겠어요?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#يمكنك-مساعدتي",
+      "dialog_node": "node_2_1625706250099",
+      "previous_sibling": "node_10_1625370417202"
+    },
+    {
+      "type": "standard",
+      "title": "صباح الخير ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "좋은 아침입니다 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#صباح",
+      "dialog_node": "node_3_1625369785084",
+      "previous_sibling": "node_6_1625370490290"
+    },
+    {
+      "type": "standard",
+      "title": "ترجمة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هلا , ارسل الكلمة بالعربي و اترجمها لك يالكوري ><"
+              },
+              {
+                "text": "مرحبا, يمكنك ارسال الكلمة التي تريد ترجمتها الى الكورية ><"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#ترجمة",
+      "dialog_node": "node_3_1625708944028",
+      "previous_sibling": "مرحبا"
+    },
+    {
+      "type": "standard",
+      "title": "شكرا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "정말 고마워"
+              },
+              {
+                "text": "고마워"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#شكرا",
+      "dialog_node": "node_4_1625370935922",
+      "previous_sibling": "node_1_1625371489900"
+    },
+    {
+      "type": "standard",
+      "title": "كم سيكلف هذا؟",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "이거 얼마예요 ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#كم-سيكلف",
+      "dialog_node": "node_4_1625371430953",
+      "previous_sibling": "node_5_1625373045103"
+    },
+    {
+      "type": "standard",
+      "title": "فواكة ",
+      "output": {
+        "generic": [
+          {
+            "source": "https://i.pinimg.com/736x/0a/f9/87/0af987baebe6df5e332491f7ab79438e--fruit-korean-food.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#فواكة",
+      "dialog_node": "node_4_1625373229755",
+      "previous_sibling": "node_3_1625708944028"
+    },
+    {
+      "type": "standard",
+      "title": "موقع للتعليم ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هنا موقع يساعدك لتعلم االلغة الكورية "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": " https://www.lingohut.com/ar/l64/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A%D8%A9"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#موقع_للتعلم",
+      "dialog_node": "node_4_1625373690835",
+      "previous_sibling": "node_4_1625373229755"
+    },
+    {
+      "type": "standard",
+      "title": "تعلم الحروف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعلم الحروف الكورية من خلال الرابط :"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "https://www.youtube.com/playlist?list=PLZ6esSZfoopnJrI8kSmBzwCL0KlJkdZSq"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#تعلم-حروف",
+      "dialog_node": "node_4_1625704873055",
+      "previous_sibling": "node_4_1625373690835"
+    },
+    {
+      "type": "standard",
+      "title": "مرحبا بالكوري",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "안녕 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مرحبا_بالكوري",
+      "dialog_node": "node_5_1625369571981",
+      "previous_sibling": "node_6_1625369860305"
+    },
+    {
+      "type": "standard",
+      "title": "الارقام",
+      "output": {
+        "generic": [
+          {
+            "source": "http://2.bp.blogspot.com/-aMVrslN7O44/TVu_hrtq_YI/AAAAAAAAAJs/NzUW8cuzlHM/s1600/korean-numbers2.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#الارقام",
+      "dialog_node": "node_5_1625373045103",
+      "previous_sibling": "node_4_1625704873055"
+    },
+    {
+      "type": "standard",
+      "title": "طرق لتعلم اللغة الكورية",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "يوجد عدد من الطرق التي يستطيع الشخص اتباعها لتساعده على تعلم اللغة الكورية، ومنها ما يأتي:\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "تعلم نظام الهانغل: لكي يستطيع الشخص تعلم اللغة الكورية فأولى الخطوات التي يجب عليه اتباعها هو أن يتعلم نظام الهانغل، وهي اسم الحروف المستخدمة في كتابة اللغة الكورية\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "تعلم الأعداد الكورية:     يعدّ تعلم الأعداد الخاصة باللغة الكورية ثاني أهم المراحل لتعلم اللغة ككل، إذ إن تعلم نظام العدّ يعدّ من الأمور الأساسية في كل لغة، ولا يستطيع الشخص الاستغناء عنها، ولكن من الجدير بالذكر أن نظام العدّ الخاص باللغة الكورية يعدّ صعبًا بعض الشيء، ولا يسهل تعلمه، وذلك لأن اللغة الكورية تستخدم نظامين مختلفين للعدّ، وذلك يعتمد على الأشياء التي يريد الشخص عدّها، لذلك فإذا أراد الشخص تعلم هذا النظام يجب أن يُفرق بين الطريقتين المستخدمتين في اللغة الكورية، إذ يوجد لديهم نظام العدّ الكوري، ونظام العدّ الصيني الكوري الذي استُمد من اللغة الصينية"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_5_1625705462841",
+      "previous_sibling": "node_1_1625363346293"
+    },
+    {
+      "type": "standard",
+      "title": "مساء الخير",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "좋은 오후입니다 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#مساء",
+      "dialog_node": "node_6_1625369860305",
+      "previous_sibling": "node_3_1625369785084"
+    },
+    {
+      "type": "standard",
+      "title": "اراك لاحقا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "나중에 봐"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#اراك-لاحقا",
+      "dialog_node": "node_6_1625370490290",
+      "previous_sibling": "node_8_1625370720614"
+    },
+    {
+      "type": "standard",
+      "title": "حروف الكورية",
+      "output": {
+        "generic": [
+          {
+            "source": "https://better1.co/wp-content/uploads/2016/10/4ae48858dede826056949a8cbab238a1.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#حروف",
+      "dialog_node": "node_8_1625370720614",
+      "previous_sibling": "node_1_1625370453802"
+    },
+    {
+      "type": "standard",
+      "title": "أي شيء آخر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "لم أفهم، يمكنك محاولة اعادة الصياغة"
+              },
+              {
+                "text": "هل يمكنك اعادة صياغة عبارتك؟ أنا لا فهم"
+              },
+              {
+                "text": "لم أفهم قصدك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "أي شيء آخر",
+      "previous_sibling": "node_10_1625705654431",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "مرحبا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " هلا , كيف اقدر اساعدك  في اللغه الكورية ؟\n يمكنك ارسال كلمة بالعربي و اترجمها لك للكوري ><\n"
+              },
+              {
+                "text": "هلا , ايش حاب تعرف عن اللغة الكورية ؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "مرحبا"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": ":هل قصدت",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "كل ما سبق خطأ"
+    },
+    "human_agent_assist": {
+      "prompt": ":هل قصدت"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "تحدث",
+  "language": "ar",
+  "description": ""
+}
